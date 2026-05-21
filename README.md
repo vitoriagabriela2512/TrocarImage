@@ -26,22 +26,38 @@ Android Studio
 XML
 Android SDK
 Material Design
+
 📂 Estrutura do Projeto
 app/
+
 ├── src/
+
 │   └── main/
+
 │       ├── java/
+
 │       │   └── br/ulbra/trocarimage/
+
 │       │       └── MainActivity.java
+
 │       ├── res/
+
 │       │   ├── drawable/
+
 │       │   │   ├── foto1.png
+
 │       │   │   └── foto2.png
+
 │       │   ├── layout/
+
 │       │   │   └── activity_main.xml
+
 │       │   └── mipmap/
+
 │       │       └── ic_launcher.*
+
 │       └── AndroidManifest.xml
+
 🖼️ Funcionalidades do Aplicativo
 Exibição inicial de uma imagem.
 Botão Foto 1 para carregar foto1.
